@@ -3,4 +3,4 @@ Jak zagrać w grę :
 1. Pobrać plik CProject,
 2. Rozpakować
 3. Odpalić plik .exe
-Zapis z rozgrywki :  https://youtu.be/MEaReruy7Qs
+.Zapis z rozgrywki :  https://youtu.be/MEaReruy7Qs
